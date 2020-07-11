@@ -1,6 +1,6 @@
-### Hi there, I'm Ethan
+### Hi, I'm Ethan!
 
-🐢 I'm a Computer Science Major at the University of Maryland, College Park! 
+🐢 I'm a Computer Science Major at the University of Maryland, College Park.
 
 💡 I'm most interested in back end development, and in using data to solve tough problems. 
 
