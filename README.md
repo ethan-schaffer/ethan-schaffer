@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Ethan
+
+🐢 I'm a Computer Science Major at the University of Maryland, College Park! 
+
+💡 I'm most interested in back end development, and in using data to solve tough problems. 
+
+⬇️ You can check out a few project I've worked on, they're pinned below. 
 
 <!--
 **ethan-schaffer/ethan-schaffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
