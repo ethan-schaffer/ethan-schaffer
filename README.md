@@ -8,7 +8,7 @@
 
 🔎 You can find me on LinkedIn [here](https://www.linkedin.com/in/ethan-schaffer/).
 
-⬇️ You can check out a few projects that I've worked on, they're pinned below. My most recent is an API wrapper that helps users Query [planetterp.com](planetterp.com) more effectively. 
+⬇️ You can check out a few projects that I've worked on, they're pinned below. My most recent is a [website](https://ethan-schaffer.github.io/UMD-Online-Course-Info/) that scrapes and gathers information from the University of Maryland's [schedule of classes](https://app.testudo.umd.edu/soc/).
 
 <!--
 **ethan-schaffer/ethan-schaffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
