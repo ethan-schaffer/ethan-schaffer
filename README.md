@@ -4,6 +4,8 @@
 
 💡 I'm most interested in back end development, and in using data to solve tough problems. 
 
+🌐 My personal website is [ethan.schaffer.com](http://ethan.schaffer.com/)
+
 🐍 My favorite programming languages are Python and Scala. I'm also experienced in Java.
 
 🔎 You can find me on LinkedIn [here](https://www.linkedin.com/in/ethan-schaffer/).
